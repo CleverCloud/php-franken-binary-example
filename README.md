@@ -1,7 +1,7 @@
 > **DEPRECATED**: This example is no longer maintained and is kept only for reference purposes.
 > The current method to deploy FrankenPHP applications on Clever Cloud is to use the [FrankenPHP runtime](https://www.clever.cloud/developers/doc/applications/frankenphp/)
 
-## FrankenPHP binary demo on Clever Cloud
+# FrankenPHP binary demo on Clever Cloud
 
 This is a simple demo of how to build a Laravel/Octane application as a binary with FrankenPHP and deploy it on Clever Cloud.  You'll need a [Clever Cloud account](https://console.clever-cloud.com/) and [Clever Tools](https://github.com/CleverCloud/clever-tools).
 
